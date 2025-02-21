@@ -1,5 +1,7 @@
 ## Hello world! I'm Matheus! 👋
 
+I'm a QA Automation Engineer with background in fullstack development. Very comfortable in multicultural teams, new technologies, complex automations and spearheading projects.
+Now tell me a little bit about yourself (:
 
 - 📫 How to reach me: <b>matheus-vieira12@hotmail.com</b>
 
